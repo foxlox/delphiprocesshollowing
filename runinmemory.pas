@@ -49,6 +49,8 @@ var
   Text: string;
   i:integer;
 begin
+  if paramstr(1) = '' then exit;
+  if paramstr(2) = '' then exit;
   try
     URL := paramstr(1);
     ByteArray := DownloadTextToByteArrayaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa(URL);

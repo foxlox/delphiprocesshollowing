@@ -1,4 +1,4 @@
-program inmemory2;
+program runinmemory;
 
 {$APPTYPE CONSOLE}
 

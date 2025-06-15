@@ -1,6 +1,8 @@
 # delphiprocesshollowing
 DelphiProcessHollowing
 
+compile with Embarcadero Community 12
+
 Some Units are added only to confuse EDRs
 
 1. compile it (64bit!)
